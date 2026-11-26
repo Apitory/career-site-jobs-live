@@ -1,0 +1,25 @@
+[
+  {
+    "ats": "greenhouse",
+    "companyId": "stripe",
+    "company": "Stripe",
+    "jobId": "8172510",
+    "jobTitle": "Abuse Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172510",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=8172510",
+    "location": "Seattle, San Francisco, New York City",
+    "city": null,
+    "region": null,
+    "country": null,
+    "remote": null,
+    "workplace": null,
+    "department": "8611 Security Analytics",
+    "team": null,
+    "employmentType": null,
+    "experienceLevel": null,
+    "postedAt": "2026-09-09T10:50:29-04:00",
+    "language": "en",
+    "descriptionText": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase \u2026",
+    "fetchedAt": "2026-11-23T09:37:53.216Z"
+  }
+]
