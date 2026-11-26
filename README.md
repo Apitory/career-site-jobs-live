@@ -59,3 +59,13 @@ Pay per result: **$3.00 per 1,000 jobs** ($0.003 per record), plus a minimal Act
 **[Career Site Jobs — Live ATS API — Apify Store](https://apify.com/apitory/career-site-jobs-live)**
 
 Support: apitoryhq@gmail.com.
+
+---
+
+## More from Apitory
+
+Same family, different cut:
+
+- [Greenhouse Jobs — Live API](https://github.com/Apitory/greenhouse-jobs-live-api) — run it on Apify: https://apify.com/apitory/greenhouse-jobs-live-api
+
+Full catalogue: https://apitory.com · All Actors: https://apify.com/apitory · All projects: https://github.com/Apitory
