@@ -67,5 +67,7 @@ Support: apitoryhq@gmail.com.
 Same family, different cut:
 
 - [Greenhouse Jobs — Live API](https://github.com/Apitory/greenhouse-jobs-live-api) — run it on Apify: https://apify.com/apitory/greenhouse-jobs-live-api
+- [Ashby Jobs — Live API](https://github.com/Apitory/ashby-jobs-live-api) — run it on Apify: https://apify.com/apitory/ashby-jobs-live-api
+- [AI Startup Jobs — Live Pack](https://github.com/Apitory/ai-startup-jobs-live) — run it on Apify: https://apify.com/apitory/ai-startup-jobs-live
 
 Full catalogue: https://apitory.com · All Actors: https://apify.com/apitory · All projects: https://github.com/Apitory
